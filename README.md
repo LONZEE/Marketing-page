@@ -44,4 +44,10 @@ Ryan Hanzel
 
 ## Screenshots of Lauch of 
 
-![Alt text][C:\Users\HOME\desktop\Challengefolder\Marketing-page\assets\images\Git status.png] "Git status om GitBash"
+![Git status](assets\images\Git status.png)
+
+![Git push](https://github.com/LONZEE/Marketing-page/assets/128856310/27e0aa0f-3226-4532-9b72-07f4722b9833)
+
+![final commit] (assets\images\final commit.png)
+
+
