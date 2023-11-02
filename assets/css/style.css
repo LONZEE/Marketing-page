@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header nav {  /* Changed div to nav */
+.header nav {  /* Changed div to nav line 27 */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+.header nav ul { /* Changed div to nav line 35*/
     list-style-type: none;
 }
 
-.header nav ul li {
+.header nav ul li { /* Changed div to nav line 39*/
     display: inline-block;
     margin-left: 25px;
 }
@@ -87,31 +87,21 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-/* .benefit-lead{
-    margin-bottom: 32px;
-    color: #ffffff;
-    margin-bottom: 10px;
-    text-align: center;
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
-.benefit-lead {
+.benefit-lead { /*made one catagory for lead line 90*/
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefit-lead h3 {
+.benefit-lead h3 { /*made one catagory for h3 line 94*/
     margin-bottom: 10px;
     text-align: center;
 }
-.benefit-lead img {
+.benefit-lead img { /*made one catagory for img line 98 */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.Online{
+.Online{ /*m Made one catagory for repeated styles line 104 */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -127,6 +117,6 @@ p {
     text-align: center;
 }
 
-.footer h4 {
+.footer h4 {   /* changed to h4*/
     font-size: 20px;
 }
