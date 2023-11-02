@@ -44,10 +44,15 @@ Ryan Hanzel
 
 ## Screenshots of Lauch of 
 
-![Git status](assets\images\Git status.png)
-
+### Git push to Github
 ![Git push](https://github.com/LONZEE/Marketing-page/assets/128856310/27e0aa0f-3226-4532-9b72-07f4722b9833)
 
-![final commit] (assets\images\final commit.png)
+### Final commit to Github Repository
+![final commit](https://github.com/LONZEE/Marketing-page/assets/128856310/8ebca303-ab24-4a1f-9e52-6b348386c88b)
 
+### Launch Process
+![URL_process](https://github.com/LONZEE/Marketing-page/assets/128856310/f94e16f7-353e-4dbf-a049-bc7592047b18)
 
+![URL_process2](https://github.com/LONZEE/Marketing-page/assets/128856310/f2f5b59f-cb83-4fd0-9eeb-0abcaae56ee3)
+
+![URL_process3](https://github.com/LONZEE/Marketing-page/assets/128856310/b6ae03f4-ecb4-4388-a444-2323f72e93e3)
