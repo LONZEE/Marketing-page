@@ -43,3 +43,5 @@ Additional Resources: [Links to supplementary materials]
 Ryan Hanzel
 
 ## Screenshots of Lauch of 
+
+![Alt text][\assets\images\Git status.png] "Git status om GitBash"
